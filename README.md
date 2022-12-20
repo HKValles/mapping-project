@@ -1,1 +1,1 @@
-# choropleth-map
+# mapping-project
